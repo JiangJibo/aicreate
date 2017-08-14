@@ -8,7 +8,7 @@ import java.io.InputStreamReader;
 import java.io.LineNumberReader;
 
 /**
- * java在linux环境下执行linux命令，然后返回命令返回值。
+ * java在linux环境下执行linux命令，然后返回命令返回值,测试
  * 
  * @since 2017年8月3日 下午4:00:52
  * @version $Id$
